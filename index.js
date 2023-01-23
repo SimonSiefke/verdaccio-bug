@@ -7,7 +7,7 @@ export const start = async () => {
     max_body_size: `1000mb`,
     web: {
       enable: true,
-      title: `lvce`,
+      title: `test`,
     },
     packages: {
       "**": {
